@@ -1,0 +1,18 @@
+.navicontainer,.navi1container,.navi2container,.navi3container{
+    width: px;
+    border-color:black;
+    background-color: rgb(171, 160, 180);
+    padding: 5px;
+    text-decoration: none;
+
+}
+.navi,.navi1,.navi2,.navi3{
+    display:flex;
+    justify-content: start;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.button{
+    cursor:pointer;
+}
